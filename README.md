@@ -147,6 +147,7 @@ UI/ UX Site design (wireframes, style guides, prototype) -
 Task 2 -  
 
 Testing methodologies- test data = in/valid - in/valid extreme - erroneous 
+Description of Test - Test Data to be Used (if required) - Expected Outcome - Actual Outcome - Comments and Intended Actions
 
 	Functional testing- 
     -unit testing  
